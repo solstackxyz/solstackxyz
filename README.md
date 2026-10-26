@@ -6,6 +6,10 @@ Create, launch, airdrop, multisend, lock and inspect Solana tokens at **[solstac
 
 <br clear="left">
 
+**On a Seeker or Saga phone:** the Solstack app is in the Solana dApp Store. Open the store and search for Solstack.
+
+<a href="https://solstack.xyz/about#solana-mobile"><img src="dapp-store-badge.svg" width="150" alt="Get it on Solana dApp Store"></a>
+
 **Most used:** [Create an SPL token](https://solstack.xyz/tools/create-solana-spl-token) · [Token-2022 creator](https://solstack.xyz/tools/create-solana-token-2022) · [Multisender](https://solstack.xyz/tools/solana-multisender) · [Airdrop to holders](https://solstack.xyz/tools/solana-token-airdrop) · [Token Inspector](https://solstack.xyz/tools/solana-token-inspector) · [Holder Snapshot](https://solstack.xyz/tools/solana-token-holder-snapshot) · [Rent Reclaim](https://solstack.xyz/tools/reclaim-solana-rent) · [Wallet Cleaner](https://solstack.xyz/tools/solana-wallet-cleaner) · [pump.fun launcher](https://solstack.xyz/tools/launch-token-on-pumpfun) · [all 34 tools](https://solstack.xyz/tools)
 
 **Open-source scripts:** [solana-multisender](https://github.com/solstackxyz/solana-multisender) · [solana-rent-reclaim](https://github.com/solstackxyz/solana-rent-reclaim) · [solana-holder-snapshot](https://github.com/solstackxyz/solana-holder-snapshot)
